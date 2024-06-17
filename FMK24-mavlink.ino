@@ -20,7 +20,7 @@ int Distance3 = 0;
 int Distance4 = 0;
 int Distance5 = 0;
 
-uint8_t orientation = 25; /*(0=forward, each increment is 45degrees more in clockwise direction), 24 (upwards) or 25 (downwards)*/
+uint8_t orientation = 0; /*(0=forward, each increment is 45degrees more in clockwise direction), 24 (upwards) or 25 (downwards)*/
 
 int sysid = 1;
 int compid = 196;
